@@ -1,5 +1,11 @@
 # Arduino Geiger Counter Data Logger
 
+Me and my son wanted to do a cool science project with our shared high-powered rocketry hobby. We decided to 
+attempt to measure the difference in background radiation between ground level and apogee.
+
+The geiger counter kit was soldered together by my son. The code to get the data from the geiger counter and
+the barometric sensor and write them to the SD card was written by me.
+
 ## Parts
 
  * [Arduino Micro] (http://www.adafruit.com/products/1086)
