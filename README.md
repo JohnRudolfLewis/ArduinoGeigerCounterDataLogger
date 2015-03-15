@@ -27,7 +27,12 @@ Connections:
 
 <img src="https://pbs.twimg.com/media/CAHHUbwVAAAepSg.jpg:large"/>
 
-Sample Outout:
+## Libraries Needed
+
+* https://github.com/adafruit/Adafruit_Sensor.git
+* https://github.com/adafruit/Adafruit_BMP085_Unified.git
+
+## Sample Outout:
 
 | Time  | Pressure | AGL   | CPS | CPM | uSv/hr |
 |-------|----------|-------|-----|-----|--------|
