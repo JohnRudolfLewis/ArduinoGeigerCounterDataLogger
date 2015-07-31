@@ -63,3 +63,9 @@ Connections:
 | 19961 | 1001.36  | 0.00  | 0   | 9   | 0.05   |
 | 20958 | 1001.36  | 0.00  | 0   | 9   | 0.05   |
 | 21954 | 1001.37  | -0.08 | 0   | 9   | 0.05   |
+
+## Results from an actual flight
+
+<img src="http://rocket.aspzone.com/wp-content/uploads/2015/07/Messages-Image230408612.png" />
+
+[In flight video] (https://www.youtube.com/watch?v=tYMYLdCidDs)
